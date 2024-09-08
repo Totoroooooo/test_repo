@@ -536,8 +536,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: 
-  sourceBankPath: 
+  sourceProjectPath: ../../FMOD Studio/GameJamCyberFMod/GameJamCyberV0/GameJamCyberV0.fspro
+  sourceBankPath: ../../FMOD Studio/GameJamCyberFMod/GameJamCyberV0/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1
@@ -547,7 +547,7 @@ MonoBehaviour:
   EncryptionKey: 
   ImportType: 0
   TargetAssetPath: FMODBanks
-  TargetBankFolder: 
+  TargetBankFolder: E:\Users\Megaport\Documents\FMOD Studio\GameJamCyberFMod\GameJamCyberV0\Build\Desktop
   EventLinkage: 0
   LoggingLevel: 2
   SpeakerModeSettings: []
@@ -572,7 +572,7 @@ MonoBehaviour:
   SharedLibraryUpdateStage: 0
   SharedLibraryTimeSinceStart: 0
   CurrentVersion: 131619
-  HideSetupWizard: 0
+  HideSetupWizard: 1
   LastEventReferenceScanVersion: 131619
   Platforms:
   - {fileID: -8315114605393742492}
