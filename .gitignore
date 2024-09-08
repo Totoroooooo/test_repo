@@ -1,6 +1,4 @@
-# This .gitignore file should be placed at the root of your Unity project directory
-#
-# Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
+﻿# This .gitignore file should be placed at the root of your Unity project directory (with Assets, Packages and Library folders)
 #
 /[Ll]ibrary/
 /[Tt]emp/
@@ -25,6 +23,9 @@
 
 # Visual Studio cache directory
 .vs/
+
+# Jetbrains Rider cache directory
+.idea/
 
 # Gradle cache directory
 .gradle/
@@ -66,6 +67,7 @@ crashlytics-build.properties
 
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/link.xml*
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
